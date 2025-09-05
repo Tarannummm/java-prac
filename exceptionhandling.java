@@ -52,7 +52,7 @@ public class exceptionhandling {
 
 
 // 3: Exception Using Method
-public class Main {
+public class exceptionhandling {
     public static void validate(int age) {
         if (age < 18) {
             throw new ArithmeticException("Can't vote");
